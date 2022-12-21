@@ -11,7 +11,7 @@
 
 <h3 align = "left">My social networks</h3>
 <p>
-  <a href = "https://github.com/enrique66672" src = ""></a>
+  <a href = "https://github.com/enrique66672" target = "blank"><img align = "center" src = "" alt = "just_enrique" height = "30" width = "40" /></a>
   <a href = ""></a>
   <a href = ""></a>
 </p>
