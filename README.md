@@ -11,14 +11,7 @@
 
 <h3 align = "left">My social networks</h3>
 <p>
-  <a href = "https://github.com/enrique66672" target = "blank"><img align = "center" src = "" alt = "just_enrique" height = "30" width = "40" /></a>
-  <a href = ""></a>
-  <a href = ""></a>
+  <a href = "https://www.linkedin.com/in/miguel-enrique-roque-ramos-b6b2a225b/" target = ""><img align = "center" src = "https://github.com/enrique66672/enrique66672/blob/main/Assets/LinkedIn.png" alt = "Miguel Enrique Roque Ramos" height = "40" width = "40"></a>
+  <a href = "https://twitter.com/enrique66672" target = ""><img align = "center" src = "https://github.com/enrique66672/enrique66672/blob/main/Assets/Twitter-logo.svg.png" alt = "enrique66672" height = "40" width = "40"></a>
+  <a href = "https://www.instagram.com/just_enriq/" target = "blank"><img align = "center" src = "https://github.com/enrique66672/enrique66672/blob/main/Assets/Instagram-Icon.png" alt = "just_enrique" height = "40" width = "40" /></a>
 </p>
-
-
-
-<!---
-enrique66672/enrique66672 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
