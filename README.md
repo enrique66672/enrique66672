@@ -3,7 +3,7 @@
   <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c0ee8079283871.5cbed45d626de.gif" width = "200">
 </div>
 
-- 👨‍💻 I’m @enrique66672 and I'm studying at the university.
+- 👨‍💻 I’m @straybe and I'm studying at the university.
 - 👀 I’m interested in learn about to develop of software, for example, project managment and AI.
 - 🌱 I’m currently learning about NLP, I think it's a good subject, in fact I would like to do my university project on it.
 - 💞️ I’m looking to collaborate on any proyect that give me experiencia and new skills.
