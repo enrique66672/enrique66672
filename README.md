@@ -50,7 +50,7 @@ Arduino
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 
-&nbsp; Linux &nbsp;&nbsp;Android &nbsp;&nbsp;MongoBD
+&nbsp; Linux &nbsp;&nbsp;Android &nbsp;&nbsp;MongoDB
 </p>
 
 ## **Contact me**
