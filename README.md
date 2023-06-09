@@ -6,6 +6,8 @@
 - I'm interested in many things, regarding my career, I like programming, mathematics and various topics, I'd like work in something related with software development, as for my personal life I cosider myself fan of anime, I like all kinds of music, and I also like to cook.
 - In the coming months I hope to be able to learn and improve my skill.
 
+![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
+
 ## Languages and tools
 <p align="left">	
 	<a href="https://www.latex-project.org/	" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/latex_logo_icon_145115.png" alt="latex" width="40" height="40"/> </a>
