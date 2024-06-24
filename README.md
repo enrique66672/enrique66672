@@ -2,9 +2,9 @@
 
 ## **About me**
 
-- I'm @straybe and I'm finishing university.
-- I'm interested in many things, regarding my career, I like programming, mathematics and various topics, I'd like work in something related with software development, as for my personal life I cosider myself fan of anime, I like all kinds of music, and I also like to cook.
-- In the coming months I hope to be able to learn and improve my skill.
+- I'm @straybe and I finished university.
+- I graduated with a degree in Computer Engineering
+- I'm interested in programming as a hobby, currently working in cybersecurity.
 
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
